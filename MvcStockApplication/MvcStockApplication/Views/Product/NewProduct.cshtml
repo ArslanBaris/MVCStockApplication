@@ -1,0 +1,36 @@
+﻿@model MvcStockApplication.Models.Entity.Product
+@{
+    ViewBag.Title = "NewProduct";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+
+<form class="form-group" method="post">
+    <div style="width:350px;">
+        <label>Product Name</label>
+        <input type="text" class="form-control" name="ProductName" required="" placeholder="Name" maxlength="50" />
+    </div>
+    <div style="width:350px; margin-top:15px;">
+        <label>Brand</label>
+        <input type="text" class="form-control" name="Brand" required="" placeholder="Brand" maxlength="50" />
+    </div>
+    <div style="width:350px;">
+        <label>Category</label>
+        @Html.DropDownListFor(m=>m.Category.CategoryId,(List<SelectListItem>)ViewBag.val,new{@class="form-control"})
+    </div>
+    <div style="width:350px; margin-top:15px;">
+        <label>Unit Price</label>
+        <input type="text" class="form-control" name="UnitPrice" placeholder="UnitPrice"  required="" />
+    </div>
+    <div style="width:350px; margin-top:15px;">
+        <label>Stock</label>
+        <input type="text" class="form-control" name="Stock" placeholder="Stock" required="" />
+    </div>
+    <div style="margin-top:15px;">
+        <button class="btn btn-info">Add New Product</button>
+    </div>
+</form>
+
+
+
+

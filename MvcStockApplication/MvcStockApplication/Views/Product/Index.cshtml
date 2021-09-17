@@ -1,0 +1,53 @@
+﻿@using MvcStockApplication.Models.Entity
+@model List<Product>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<a href="/Product/NewProduct/" class="btn btn-primary">Add New Product</a>
+<p><br /></p>
+<table id="tbl1" class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Unit Price </th>
+            <th>Stock</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var p in Model){
+            <tr>
+                <td>@p.ProductId</td>
+                <td>@p.ProductName</td>
+                <td>@p.Brand</td>
+                <td>@p.Category.CategoryName</td>
+                <td>@p.UnitPrice</td>
+                <td>@p.Stock</td>
+                <td><a href="/Product/GetProduct/@p.ProductId" class="btn btn-success">Update</a></td>
+                <td><a href="/Product/DeleteProduct/@p.ProductId" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<link href="~/Content/DataTables/css/dataTables.bootstrap4.css" rel="stylesheet" />
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>  
+
+
+
+<script>
+    $('#tbl1').DataTable();
+</script>

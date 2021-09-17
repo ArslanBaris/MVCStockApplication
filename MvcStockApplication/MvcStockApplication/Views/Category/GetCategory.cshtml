@@ -1,0 +1,21 @@
+﻿@model MvcStockApplication.Models.Entity.Category
+@{
+    ViewBag.Title = "GetCategory";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+@using (Html.BeginForm("UpdateCategory", "Category", FormMethod.Post))
+{
+    <div class="form-group">
+        <div style="width:350px;">
+            <label class="form-group">Category ID</label>
+            @Html.TextBoxFor(m => m.CategoryId, new { @class = "form-control", disabled = "disabled" })
+            <br />
+            <label class="form-group">Category Name</label>
+            @Html.TextBoxFor(m => m.CategoryName, new { @class = "form-control" })
+        </div>
+        <div style="margin-top:15px;">
+            <button class="btn btn-info">Save Category</button>
+        </div>
+    </div>
+    }
+

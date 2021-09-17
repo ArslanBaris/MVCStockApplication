@@ -1,0 +1,120 @@
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\MvcStockApplication.dll.config
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\MvcStockApplication.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\MvcStockApplication.pdb
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Antlr3.Runtime.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\EntityFramework.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Newtonsoft.Json.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Owin.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Helpers.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Mvc.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Optimization.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Razor.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\WebGrease.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Helpers.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Mvc.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Optimization.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.Razor.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Newtonsoft.Json.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\EntityFramework.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.pdb
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\PagedList.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\PagedList.Mvc.dll
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\PagedList.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\bin\PagedList.Mvc.xml
+C:\Users\Thing\Documents\Visual Studio 2013\Projects\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.csprojResolveAssemblyReference.cache
+H:\MvcStockApplication\MvcStockApplication\bin\MvcStockApplication.dll.config
+H:\MvcStockApplication\MvcStockApplication\bin\MvcStockApplication.dll
+H:\MvcStockApplication\MvcStockApplication\bin\MvcStockApplication.pdb
+H:\MvcStockApplication\MvcStockApplication\bin\Antlr3.Runtime.dll
+H:\MvcStockApplication\MvcStockApplication\bin\EntityFramework.dll
+H:\MvcStockApplication\MvcStockApplication\bin\EntityFramework.SqlServer.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Cookies.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Facebook.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Google.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.OAuth.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Twitter.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Newtonsoft.Json.dll
+H:\MvcStockApplication\MvcStockApplication\bin\Owin.dll
+H:\MvcStockApplication\MvcStockApplication\bin\PagedList.dll
+H:\MvcStockApplication\MvcStockApplication\bin\PagedList.Mvc.dll
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Helpers.dll
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Mvc.dll
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Optimization.dll
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Razor.dll
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Deployment.dll
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.dll
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Razor.dll
+H:\MvcStockApplication\MvcStockApplication\bin\WebGrease.dll
+H:\MvcStockApplication\MvcStockApplication\bin\PagedList.xml
+H:\MvcStockApplication\MvcStockApplication\bin\PagedList.Mvc.xml
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Helpers.xml
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Mvc.xml
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Optimization.xml
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.Razor.xml
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.xml
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Deployment.xml
+H:\MvcStockApplication\MvcStockApplication\bin\System.Web.WebPages.Razor.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Antlr3.Runtime.pdb
+H:\MvcStockApplication\MvcStockApplication\bin\Newtonsoft.Json.xml
+H:\MvcStockApplication\MvcStockApplication\bin\EntityFramework.xml
+H:\MvcStockApplication\MvcStockApplication\bin\EntityFramework.SqlServer.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Facebook.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Cookies.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.OAuth.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Google.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.Twitter.xml
+H:\MvcStockApplication\MvcStockApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.csprojAssemblyReference.cache
+H:\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.csproj.CoreCompileInputs.cache
+H:\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.csproj.CopyComplete
+H:\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.dll
+H:\MvcStockApplication\MvcStockApplication\obj\Debug\MvcStockApplication.pdb

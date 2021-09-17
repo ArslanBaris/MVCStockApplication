@@ -1,0 +1,44 @@
+﻿@using MvcStockApplication.Models.Entity
+
+@model List<Customer>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+
+
+@using (Html.BeginForm("Index", "Customer", FormMethod.Get))
+{
+    <p>
+        <b>Search :</b> @Html.TextBox("p")
+        <input type="submit" value="Search"/>
+    </p>
+}
+<a href="/Customer/NewCustomer/" class="btn btn-primary">Add New Customer</a>
+<p><br /></p>
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>Customer ID</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Update</th>
+        <th>Delete</th>
+        <th>Alert</th>
+    </tr>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.CustomerId</td>
+                <td>@c.CustomerName</td>
+                <td>@c.CustomerSurname</td>
+                <td><a href="/Customer/GetCustomer/@c.CustomerId" class="btn btn-success">Update</a></td>
+                <td><a href="/Customer/DeleteCustomer/@c.CustomerId" class="btn btn-danger">Delete</a></td>
+                <td>@Html.ActionLink("Delete Transact", "DeleteCustomer", new {id= c.CustomerId }, new { @class = "btn btn-warning", onclick = "return confirm('Are you sure?')" })</td>
+            </tr>
+        }
+    </tbody>
+</table>

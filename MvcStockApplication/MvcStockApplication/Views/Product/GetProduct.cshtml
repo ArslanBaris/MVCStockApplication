@@ -1,0 +1,37 @@
+﻿@model MvcStockApplication.Models.Entity.Product
+@{
+    ViewBag.Title = "GetProduct";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("UpdateProduct1", "Product", FormMethod.Post))
+{
+    <div class="form-group">
+        <div style="width:350px;" id="div1">
+            <label class="form-group">Product ID</label>
+            @Html.TextBoxFor(m => m.ProductId, new { @class = "form-control", disabled = "disabled" })
+            <br />
+            <label class="form-group">Product Name</label>
+            @Html.TextBoxFor(m => m.ProductName, new { @class = "form-control" })
+            <br />
+            <label class="form-group">Brand</label>
+            @Html.TextBoxFor(m => m.Brand, new { @class = "form-control" })
+            <br />
+            <label class="form-group">Category</label>
+            @Html.DropDownListFor(m => m.Category.CategoryId, (List<SelectListItem>)ViewBag.val, new { @class = "form-control" })
+            <br />
+            <label class="form-group">Unit Price</label>
+            @Html.TextBoxFor(m => m.UnitPrice, new { @class = "form-control" })
+            <br />
+            <label class="form-group">Stock</label>
+            @Html.TextBoxFor(m => m.Stock, new { @class = "form-control" })
+            
+        </div>
+
+        
+        <div style="margin-top:15px;">
+            <button class="btn btn-info"> Save</button>
+        </div>
+    </div>
+}  
+
