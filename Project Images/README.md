@@ -2,7 +2,7 @@
 ## Categories
 
 <div>
-<img src="Categories.png" width="420px"  >
+<img src="Categories.png"   >
 </div>
 
 ## Products
