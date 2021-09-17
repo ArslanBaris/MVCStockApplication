@@ -1,6 +1,7 @@
 # MVC-Stock-Application
 
-MVC tabanlı temel seviye geliştirilmiş mağaza stok uygulaması. CRUD işlemlerinin gerçekleştirilmiştir.
+MVC tabanlı temel seviye geliştirilmiş mağaza stok uygulaması. 
+CRUD işlemlerinin gerçekleştirilmiştir.
 
 Proje görsellerine [buradan] ulaşabilirsiniz.
 
