@@ -8,7 +8,7 @@
 ## Products
 
 <div>
-<img src="Products.png"  margin-top="100px">
+<img src="Products.png"  >
 <img src="Add%20New%20Product.png"  >
 <img src="Update%20Product.png"  >
 </div>
