@@ -5,7 +5,7 @@ MVC tabanlı temel seviye geliştirilmiş mağaza stok uygulaması. CRUD işleml
 Proje görsellerine [buradan] ulaşabilirsiniz.
 
 <div>
-<img src="Project%20Images/Products.png" width="800px"  >
+<img src="Project%20Images/Products.png"   >
 </div>
 
 
