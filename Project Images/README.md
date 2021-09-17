@@ -8,9 +8,9 @@
 ## Products
 
 <div>
-<img src="Products.png" width="420px"  >
-<img src="Add%20New%20Product.png" width="420px"  >
-<img src="Update%20Product.png" width="420px"  >
+<img src="Products.png"   >
+<img src="Add%20New%20Product.png"   >
+<img src="Update%20Product.png"   >
 </div>
 
 ## Customers
