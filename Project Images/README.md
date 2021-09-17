@@ -2,15 +2,15 @@
 ## Categories
 
 <div>
-<img src="Categories.png"   >
+<img src="Categories.png"  width="720px" >
 </div>
 
 ## Products
 
 <div>
-<img src="Products.png"   >
-<img src="Add%20New%20Product.png"   >
-<img src="Update%20Product.png"   >
+<img src="Products.png"   width="720px">
+<img src="Add%20New%20Product.png"  width="720px" >
+<img src="Update%20Product.png"  width="720px" >
 </div>
 
 ## Customers
