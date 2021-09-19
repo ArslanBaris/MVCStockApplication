@@ -6,7 +6,7 @@ CRUD işlemlerinin gerçekleştirilmiştir.
 Proje görsellerine [buradan] ulaşabilirsiniz.
 
 <div>
-<img src="Project%20Images/Calculate%20Page%20.png"   >
+<img src="Project%20Images/Products.png" >
 </div>
 
 
